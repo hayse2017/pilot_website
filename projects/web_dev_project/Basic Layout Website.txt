@@ -1,0 +1,56 @@
+Basic Website Layout (Concept) -
+
+NS Nature Scapes (Home)
+
+KM Kettle Moraine (Page 1)
+DC Door County (Page 2)
+UP Upper Peninsula (Page 3)
+
+
+**************************************************************************
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+    <title>Nature Scapes</title>
+
+	<link rel="stylesheet" href="style.css" type="text/css" />
+
+	<style>
+    *{ border: 1px solid grey; }
+    </style>
+	
+</head>
+<body>
+
+
+	<div id="page">
+		<div id="logo">
+			<h1><a href="/" id="logoLink">Nature Scapes</a></h1>
+		</div>
+		<div id="nav">
+			<ul>
+				<li><a href="#/km.html">Kettle Moraine</a></li>
+				<li><a href="#/dc.html">Door County</a></li>
+				<li><a href="#/up.html">Upper Peninsula</a></li>
+			</ul>	
+
+			<p>
+
+			<h2>Nature Scapes</h2>
+			<p>
+				Nature Scapes is a simple place on the web I can retreat to when I need to be reminded of my favorite places in the upper midwest (Kettle Moraine, Door County, and the Upper Peninsula).
+			</p>
+			<p> 
+				Simply reflecting on the picture of each place I am transported reminding me of the solitude they provide.  Should you ever have the opportunity to visit these 3 places in nature I hope you discover the restorative aspects they provide as I did.  Enjoy!
+			</p>
+</body>
+</html>
+
+
+
+
+
